@@ -1,6 +1,10 @@
 # Simple Clock Card
 A text based clock for Homeassistants' Lovelace ui
 
+![24h clock](https://i.imgur.com/n37gyxZ.png)  
+
+![military without seconds](https://i.imgur.com/ej4AFO3.png)
+
 ## Usage
 - Download the files in this folder to your 'www' folder in the hass config directory.
 - In your *lovelace-ui.yaml* or in the raw config editor add the following to resources:
